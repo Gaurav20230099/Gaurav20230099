@@ -46,10 +46,6 @@
   <img src="https://streak-stats.demolab.com/?user=Gaurav20230099&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav20230099&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</p>
-
 ---
 
 ### 🚀 Featured Project
