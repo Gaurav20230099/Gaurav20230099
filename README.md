@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst;Data+Analytics+%26+Software+Development;Turning+raw+data+into+insights" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gaurav20230099&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=flat" alt="status" />
-</p>
-
 ---
 
 ### 🙋‍♂️ About Me
@@ -62,14 +57,3 @@
 | Project | What it does | Tools |
 |---|---|---|
 | [E-Commerce Order & Supply Chain Analytics](https://github.com/Gaurav20230099/E-Commerce-Order-Supply-Chain-Analytics) | Analysis of e-commerce orders and supply chain data | Python, SQL |
-
----
-
-### 🎯 Goals
-
-- [ ] Build 5 end-to-end data analytics projects
-- [ ] Master SQL joins, window functions, and CTEs
-- [ ] Publish Power BI / Tableau dashboards
-- [ ] Land a data analyst internship
-
-<p align="center"><i>⭐ Thanks for stopping by!</i></p>
