@@ -6,16 +6,6 @@
 
 ---
 
-### 🙋‍♂️ About Me
-
-- 🎓 Student learning **Data Analytics** and building projects to sharpen my skills
-- 📊 I enjoy finding stories hidden inside messy data
-- 🌱 Currently learning: **Advanced SQL, Power BI, Tableau, Statistics**
-- 📍 Based in New Delhi, India
-- 💬 Ask me about: **Python, SQL, Power BI, Excel**
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
