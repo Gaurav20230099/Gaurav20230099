@@ -36,10 +36,4 @@
   <img src="https://streak-stats.demolab.com/?user=Gaurav20230099&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
----
-
-### 🚀 Featured Project
-
-| Project | What it does | Tools |
-|---|---|---|
-| [E-Commerce Order & Supply Chain Analytics](https://github.com/Gaurav20230099/E-Commerce-Order-Supply-Chain-Analytics) | Analysis of e-commerce orders and supply chain data | Python, SQL |
+--- 
