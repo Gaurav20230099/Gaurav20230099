@@ -1,39 +1,45 @@
-<h1 align="center">Hi, I'm Gaurav</h1> 
-
+<!-- Animated Neon Wave Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst;Data+Analytics+%26+Software+Development;Turning+raw+data+into+insights" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:00f2fe&height=220&section=header&text=Gaurav%20Bisht&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Full-Stack%20Web%20Dev&descAlignY=58&descSize=18" alt="Header Banner" />
+</p>
+
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Gaurav+%F0%9F%91%8B;Aspiring+Data+Analyst+%26+Software+Developer;Turning+Raw+Data+into+Actionable+Business+Insights;Building+Interactive+Dashboards+%26+Scalable+Web+Apps" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav20230099&label=Profile%20Views&color=00f2fe&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Gaurav20230099?tab=followers">
+    <img src="https://img.shields.io/github/followers/Gaurav20230099?label=Followers&style=for-the-badge&color=2F81F7&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### ⚡ About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+```python
+class GauravBisht:
+    def __init__(self):
+        self.name = "Gaurav Bisht"
+        self.education = "Bachelor of Computer Applications (BCA)"
+        self.location = "New Delhi, India 🇮🇳"
+        self.roles = ["Data Analyst", "BI Developer", "Full-Stack Developer"]
 
----
+    def current_focus(self):
+        return [
+            "Building end-to-end ETL pipelines & interactive Power BI dashboards",
+            "Writing optimized SQL queries, DAX measures & Python data workflows",
+            "Developing responsive full-stack web applications (MERN Stack)"
+        ]
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurav20230099&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav20230099&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gaurav20230099&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
---- 
+    def motto(self):
+        return "Clean code, clean data, and insights that drive real decisions. 🚀"
